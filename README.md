@@ -2,25 +2,6 @@ import { Callout, Tabs, Tab } from 'nextra/components'
 
 <div align="center">
 
-# ExamGrade AI
-
-### Precision Grading for Modern Educators
-
-*An AI-powered exam answer sheet analyzer that transforms handwritten papers into actionable insights.*
-
-<img width="800" alt="ExamGrade AI" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-
----
-
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript)](https://typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
-[![Gemini AI](https://img.shields.io/badge/Gemini_AI-1.29-4285F4?logo=google)](https://ai.google.dev)
-
-</div>
-
----
 
 ## Table of Contents
 
@@ -887,8 +868,6 @@ This project is licensed under the **Apache 2.0 License** — see the [LICENSE](
 
 <div align="center">
 
-**Built with AI-powered precision for educators worldwide.**
 
-[View on AI Studio](https://ai.studio/apps/b1ce410f-4e7d-4ae0-80d1-bc9b339c9b8b)
 
 </div>
