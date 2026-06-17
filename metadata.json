@@ -1,0 +1,5 @@
+{
+  "name": "ExamGrade AI",
+  "description": "AI-powered student exam answer sheet analyzer and grading assistant.",
+  "requestFramePermissions": []
+}
